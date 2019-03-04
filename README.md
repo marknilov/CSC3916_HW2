@@ -1,6 +1,5 @@
 # Web-Api HW2
 # to run put with correct token do:
 # signup1 -> signin1 -> movies3(put request)
-# if all 12 tests are ran together some error out sometimes
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/cf4875a6d1e967db11ff#?env%5Bhw2%5D=W3siZGVzY3JpcHRpb24iOnsiY29udGVudCI6IiIsInR5cGUiOiJ0ZXh0L3BsYWluIn0sInZhbHVlIjoiYWJjMTIzIiwia2V5IjoiVU5JUVVFX0tFWSIsImVuYWJsZWQiOnRydWV9LHsiZGVzY3JpcHRpb24iOnsiY29udGVudCI6IiIsInR5cGUiOiJ0ZXh0L3BsYWluIn0sInZhbHVlIjoiSldUIGV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwWkNJNklqazNNR05oTURVMU9XTTVaakU1T1RkbFlUUTVZakl4Tm1GaU9HUmhOMkV6Tm1RMVkyVmhZek1pTENKMWMyVnlibUZ0WlNJNkltMWxJaXdpYVdGMElqb3hOVFV4TmpneE1UVTFmUS5HTUxFVkk1ZVZnVXpPLWYxX09YN1htMXZzY1VmQ3dubEFZR01fZ3ZfbjM4Iiwia2V5IjoidG9rZW4iLCJlbmFibGVkIjp0cnVlfV0=)
